@@ -1,0 +1,334 @@
+
+    <!-- Product Cards -->
+    <div class="container">
+      <h2 class="center">Shopping Items</h2>
+      <br />
+      <div class="row responsive-img">
+        <!-- Product 1 -->
+        <div class="center col s12 m6 l4">
+          <div class="card product-card">
+            <div class="card-image">
+              <img src="okinawa.jpg" alt="Milk Tea 1" />
+            </div>
+            <div class="card-content">
+              <span class="card-title"><h4>Okinawa</h4></span>
+              <p>Delicious milk tea description goes here.</p>
+            </div>
+            <div class="divider"></div>
+            <br />
+            <!-- Dropdown Trigger -->
+            <a class="dropdown-trigger btn" href="#" data-target="dropdown1"
+              >ADD TO CART</a
+            >
+
+            <!-- Dropdown Structure -->
+            <ul id="dropdown1" class="dropdown-content">
+              <li><a href="#!">LOWDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">HIGHDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">OVERDOSE</a></li>
+            </ul>
+            <br /><br />
+          </div>
+        </div>
+        <!-- Product 2 -->
+        <div class="center col s12 m6 l4">
+          <div class="card product-card">
+            <div class="card-image">
+              <img src="winter.jpg" alt="Milk Tea 2" />
+            </div>
+            <div class="card-content">
+              <span class="card-title"><h4>Wintermelon</h4></span>
+              <p>Delicious milk tea description goes here.</p>
+            </div>
+            <div class="divider"></div>
+            <br />
+            <!-- Dropdown Trigger -->
+            <a class="dropdown-trigger btn" href="#" data-target="dropdown1"
+              >ADD TO CART</a
+            >
+            <!-- Dropdown Structure -->
+            <ul id="dropdown1" class="dropdown-content">
+              <li><a href="#!">LOWDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">HIGHDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">OVERDOSE</a></li>
+            </ul>
+            <br /><br />
+          </div>
+        </div>
+        <!-- Product 3 -->
+        <div class="center col s12 m6 l4">
+          <div class="card product-card">
+            <div class="card-image">
+              <img src="hokkaido.jpg" alt="Matcha Series" />
+            </div>
+            <div class="card-content">
+              <span class="card-title"><h4>Hokkaido</h4></span>
+              <p>Delicious milk tea description goes here.</p>
+            </div>
+            <div class="divider"></div>
+            <br />
+            <!-- Dropdown Trigger -->
+            <a class="dropdown-trigger btn" href="#" data-target="dropdown1"
+              >ADD TO CART</a
+            >
+            <!-- Dropdown Structure -->
+            <ul id="dropdown1" class="dropdown-content">
+              <li><a href="#!">LOWDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">HIGHDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">OVERDOSE</a></li>
+            </ul>
+            <br /><br />
+          </div>
+        </div>
+        <!-- Product 4 -->
+        <div class="center col s12 m6 l4">
+          <div class="card product-card">
+            <div class="card-image">
+              <img src="ujimatcha.jpg" alt="Milk Tea 6" />
+            </div>
+            <div class="card-content">
+              <span class="card-title"><h4>Uji Matcha</h4></span>
+              <p>Delicious milk tea description goes here.</p>
+            </div>
+            <div class="divider"></div>
+            <br />
+            <!-- Dropdown Trigger -->
+            <a class="dropdown-trigger btn" href="#" data-target="dropdown1"
+              >ADD TO CART</a
+            >
+            <!-- Dropdown Structure -->
+            <ul id="dropdown1" class="dropdown-content">
+              <li><a href="#!">LOWDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">HIGHDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">OVERDOSE</a></li>
+            </ul>
+            <br /><br />
+          </div>
+        </div>
+        <!-- Product 5 -->
+        <div class="center col s12 m6 l4">
+          <div class="card product-card">
+            <div class="card-image">
+              <img src="redchocolate.jpg" alt="Milk Tea 6" />
+            </div>
+            <div class="card-content">
+              <span class="card-title"><h4>Red Chocolate</h4></span>
+              <p>Delicious milk tea description goes here.</p>
+            </div>
+            <div class="divider"></div>
+            <br />
+            <!-- Dropdown Trigger -->
+            <a class="dropdown-trigger btn" href="#" data-target="dropdown1"
+              >ADD TO CART</a
+            >
+            <!-- Dropdown Structure -->
+            <ul id="dropdown1" class="dropdown-content">
+              <li><a href="#!">LOWDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">HIGHDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">OVERDOSE</a></li>
+            </ul>
+            <br /><br />
+          </div>
+        </div>
+        <!-- Product 6 -->
+        <div class="center col s12 m6 l4">
+          <div class="card product-card">
+            <div class="card-image">
+              <img src="cookiedough.jpg" alt="Milk Tea 6" />
+            </div>
+            <div class="card-content">
+              <span class="card-title"><h4>Cookie Dough</h4></span>
+              <p>Delicious milk tea description goes here.</p>
+            </div>
+            <div class="divider"></div>
+            <br />
+            <!-- Dropdown Trigger -->
+            <a class="dropdown-trigger btn" href="#" data-target="dropdown1"
+              >ADD TO CART</a
+            >
+            <!-- Dropdown Structure -->
+            <ul id="dropdown1" class="dropdown-content">
+              <li><a href="#!">LOWDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">HIGHDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">OVERDOSE</a></li>
+            </ul>
+            <br /><br />
+          </div>
+        </div>
+        <!-- Product 7 -->
+        <div class="center col s12 m6 l4">
+          <div class="card product-card">
+            <div class="card-image">
+              <img src="cheese.jpg" alt="Milk Tea 6" />
+            </div>
+            <div class="card-content">
+              <span class="card-title"><h4>Cheese Milktea</h4></span>
+              <p>Delicious milk tea description goes here.</p>
+            </div>
+            <div class="divider"></div>
+            <br />
+            <!-- Dropdown Trigger -->
+            <a class="dropdown-trigger btn" href="#" data-target="dropdown1"
+              >ADD TO CART</a
+            >
+            <!-- Dropdown Structure -->
+            <ul id="dropdown1" class="dropdown-content">
+              <li><a href="#!">LOWDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">HIGHDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">OVERDOSE</a></li>
+            </ul>
+            <br /><br />
+          </div>
+        </div>
+        <!-- Product 8 -->
+        <div class="center col s12 m6 l4">
+          <div class="card product-card">
+            <div class="card-image">
+              <img src="oreocc.jpg" alt="Oreo Cheecake" />
+            </div>
+            <div class="card-content">
+              <span class="card-title"><h4>Oreo Cheecake</h4></span>
+              <p>Delicious milk tea description goes here.</p>
+            </div>
+            <div class="divider"></div>
+            <br />
+            <!-- Dropdown Trigger -->
+            <a class="dropdown-trigger btn" href="#" data-target="dropdown1"
+              >ADD TO CART</a
+            >
+            <!-- Dropdown Structure -->
+            <ul id="dropdown1" class="dropdown-content">
+              <li><a href="#!">LOWDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">HIGHDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">OVERDOSE</a></li>
+            </ul>
+            <br /><br />
+          </div>
+        </div>
+        <!-- Product 9 -->
+        <div class="center col s12 m6 l4">
+          <div class="card product-card">
+            <div class="card-image">
+              <img src="nutella.jpg" alt="Milk Tea 6" />
+            </div>
+            <div class="card-content">
+              <span class="card-title"><h4>Nutella Milktea</h4></span>
+              <p>Delicious milk tea description goes here.</p>
+            </div>
+            <div class="divider"></div>
+            <br />
+            <!-- Dropdown Trigger -->
+            <a class="dropdown-trigger btn" href="#" data-target="dropdown1"
+              >ADD TO CART</a
+            >
+            <!-- Dropdown Structure -->
+            <ul id="dropdown1" class="dropdown-content">
+              <li><a href="#!">LOWDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">HIGHDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">OVERDOSE</a></li>
+            </ul>
+            <br /><br />
+          </div>
+        </div>
+        <!-- Product 10 -->
+        <div class="center col s12 m6 l4">
+          <div class="card product-card">
+            <div class="card-image">
+              <img src="black.jpg" alt="Milk Tea 5" />
+            </div>
+            <div class="card-content">
+              <span class="card-title"><h4>Black Wintermelon</h4></span>
+              <p>Delicious milk tea description goes here.</p>
+            </div>
+            <div class="divider"></div>
+            <br />
+            <!-- Dropdown Trigger -->
+            <a class="dropdown-trigger btn" href="#" data-target="dropdown1"
+              >ADD TO CART</a
+            >
+            <!-- Dropdown Structure -->
+            <ul id="dropdown1" class="dropdown-content">
+              <li><a href="#!">LOWDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">HIGHDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">OVERDOSE</a></li>
+            </ul>
+            <br /><br />
+          </div>
+        </div>
+        <!-- Product 11 -->
+        <div class="center col s12 m6 l4">
+          <div class="card product-card">
+            <div class="card-image">
+              <img src="brown.jpg" alt="Milk Tea 6" />
+            </div>
+            <div class="card-content">
+              <span class="card-title"><h4>Brown Sugar Latte</h4></span>
+              <p>Delicious milk tea description goes here.</p>
+            </div>
+            <div class="divider"></div>
+            <br />
+            <!-- Dropdown Trigger -->
+            <a class="dropdown-trigger btn" href="#" data-target="dropdown1"
+              >ADD TO CART</a
+            >
+            <!-- Dropdown Structure -->
+            <ul id="dropdown1" class="dropdown-content">
+              <li><a href="#!">LOWDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">HIGHDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">OVERDOSE</a></li>
+            </ul>
+            <br /><br />
+          </div>
+        </div>
+        <!-- Product 12 -->
+        <div class="center col s12 m6 l4">
+          <div class="card product-card">
+            <div class="card-image">
+              <img src="mousse.jpg" alt="Milk Tea 6" />
+            </div>
+            <div class="card-content">
+              <span class="card-title"><h4>Chocolate Mousse</h4></span>
+              <p>Delicious milk tea description goes here.</p>
+            </div>
+            <div class="divider"></div>
+            <br />
+            <!-- Dropdown Trigger -->
+            <a class="dropdown-trigger btn" href="#" data-target="dropdown1"
+              >ADD TO CART</a
+            >
+            <!-- Dropdown Structure -->
+            <ul id="dropdown1" class="dropdown-content">
+              <li><a href="#!">LOWDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">HIGHDOSE</a></li>
+              <li class="divider" tabindex="-1"></li>
+              <li><a href="#!">OVERDOSE</a></li>
+            </ul>
+            <br /><br />
+          </div>
+        </div>
+      </div>
+    </div>
+    <br /><br />
